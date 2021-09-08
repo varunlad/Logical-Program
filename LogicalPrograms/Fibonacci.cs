@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LogicalPrograms
 {
-    class Program
+    class Fibonacci
     {
         static void Main(string[] args)
         {
